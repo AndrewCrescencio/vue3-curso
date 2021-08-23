@@ -1,4 +1,4 @@
-#Vue3-curso
+# Vue3-curso
 
 Este repositório foi criado para seguir as aulas do curso "Vue JS 3: Desenvolvimento Web Moderno com Vuex & Vue Router" na Udemy.
 
